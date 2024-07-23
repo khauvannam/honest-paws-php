@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"dev" : "pnpm dlx tailwindcss -i ./css/input.css -o ./css/output.css --minify --watch"
+	},
+	"dependencies": {
+		"tailwindcss": "^3.4.4"
+	}
+}
